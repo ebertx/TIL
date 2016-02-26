@@ -14,4 +14,4 @@ if (property_exists($object, "my_".$variable)) {
 }
 ```
 
-
+[Source](http://stackoverflow.com/questions/12092336/php-dynamic-name-for-object-property)

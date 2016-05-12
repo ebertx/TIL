@@ -8,6 +8,6 @@ pkill <process_name>
 pkill firefox
 ```
 
-I mention this only because previously I had been using: 'kill -9 $(pidof firefox)', which is obviously a lot more verbose.
+I mention this only because previously I had been using: `kill -9 $(pidof firefox)`, which is obviously a lot more verbose.
 
 [Source](http://man.he.net/?topic=pkill&section=all)

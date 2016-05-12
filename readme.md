@@ -6,6 +6,7 @@
 
 ### PHP
 * [Create dynamically named object property](PHP/dynamic-object-property.md)
+* [Delete a process by name](Unix/pkill.md)
 
 ### Unix
 * [Check disk usage](unix/du.md)

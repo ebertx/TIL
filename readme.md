@@ -1,5 +1,8 @@
 # TIL
 
+### Git
+* [Remove files listed in .gitignore](Git/rm-cached.md)
+
 ### JavaScript
 * [Create multi-line template strings in ES2015/TypeScript](JS/multi-line-template-strings.md)
 * [Format numbers with `toLocaleString()`](JS/toLocaleString.md)

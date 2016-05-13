@@ -12,5 +12,5 @@
 * [Delete a process by name](Unix/pkill.md)
 
 ### Unix
-* [Check disk usage](unix/du.md)
+* [Check disk usage](Unix/du.md)
 

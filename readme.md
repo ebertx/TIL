@@ -1,6 +1,7 @@
 # TIL
 
 ### Git
+* [Fix lowercase to uppercase resulting in duplicate files/directories](Git/ignore-case.md)
 * [Remove files listed in .gitignore](Git/rm-cached.md)
 
 ### JavaScript
